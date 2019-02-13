@@ -14,3 +14,13 @@ img{
      border-bottom-right-radius: 100% 100%;
      border-bottom-left-radius: 100% 100%;
     }    
+    #reset{
+        color:white;
+        background-color:black;
+        }
+html{
+    background-image:url("https://66.media.tumblr.com/44791c6bd3e498120588280a49b4fb3b/tumblr_pbscfzUhBb1xpp3pso1_400.jpg");
+    }  
+#gnome{
+    display:none;
+    }    
